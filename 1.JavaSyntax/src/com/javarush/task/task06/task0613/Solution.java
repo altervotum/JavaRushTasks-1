@@ -1,7 +1,7 @@
 package com.javarush.task.task06.task0613;
 
 /* 
-Кот и статика
+Кот и статика 
 */
 
 public class Solution {
